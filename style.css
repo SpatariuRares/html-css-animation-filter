@@ -232,7 +232,7 @@
         right: 20%;
     }
     30%{
-        right: calc(100% - 30px);
+        right: calc(100% - 50px);
         bottom:-10px
     }
     
@@ -241,12 +241,12 @@
         bottom:100%
     }
     70%{
-        right: -20px;
+        right: -10px;
         bottom:100%
     }
 
     90%{
-        right: -20px;
+        right: -10px;
         bottom:-10px
     }
 
